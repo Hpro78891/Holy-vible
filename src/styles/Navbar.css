@@ -1,0 +1,23 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  /* position: fixed; */
+  height: 50px;
+  width: 70%;
+  background-color: #537188;
+  border-radius: 0 10px 0 10px;
+}
+
+.navbar-logo {
+  font-size: 50px;
+  text-decoration: none;
+}
+
+.Navbar a {
+  text-decoration: none;
+  color: wheat;
+}
+
+.Navbar a:hover {
+  color: rgb(228, 207, 167);
+}
